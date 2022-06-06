@@ -2,4 +2,7 @@ this file is crrated for conflict purpose
 this text is written in branch 1 will not be modified
 
 
-this text is written in branch 1 will be modified by another branch to create conflict
+this text is modified by branch 2
+
+
+this text is written in branch 2
